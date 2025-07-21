@@ -16,6 +16,9 @@
 body {
   font-family: "Outfit", sans-serif;
   background-color: var(--slate300);
+}
+
+main {
   height: 100vh;
   display: grid;
 }
@@ -49,5 +52,5 @@ h1 {
 
 p {
   color: var(--slate500);
-  font-size: 15px;
+  font-size: 0.9em;
 }
